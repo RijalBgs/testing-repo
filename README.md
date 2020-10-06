@@ -8,4 +8,4 @@
 :star_struck: Subhan Nooriansyah
 
 ## Students
-- Agus Stiawan
+- Muhammad Rijal Bagus Hernanda
